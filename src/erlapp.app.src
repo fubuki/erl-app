@@ -1,4 +1,4 @@
-{application, erl-app,
+{application, erlapp,
  [
   {description, ""},
   {vsn, "1"},
@@ -7,6 +7,6 @@
                   kernel,
                   stdlib
                  ]},
-  {mod, { erl-app_app, []}},
+  {mod, { erlapp_app, []}},
   {env, []}
  ]}.

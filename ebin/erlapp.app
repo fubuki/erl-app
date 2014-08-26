@@ -1,0 +1,8 @@
+{application,erlapp,
+             [{description,[]},
+              {vsn,"1"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {mod,{erlapp_app,[]}},
+              {env,[]},
+              {modules,[erlapp_app,erlapp_sup]}]}.

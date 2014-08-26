@@ -1,4 +1,4 @@
--module(erl-app_sup).
+-module(erlapp_sup).
 
 -behaviour(supervisor).
 
